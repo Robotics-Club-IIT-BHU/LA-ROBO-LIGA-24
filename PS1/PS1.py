@@ -23,5 +23,9 @@ env = gym.make('LaRoboLiga24',
     visual_cam_settings=VISUAL_CAM_SETTINGS
 )
 
+"""
+CODE AFTER THIS
+"""
+
 t.sleep(10)
 env.close()
