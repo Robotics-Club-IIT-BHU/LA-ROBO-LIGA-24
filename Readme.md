@@ -45,6 +45,7 @@ first of all , you'll have to import the package LRL-main-arena, this can only b
 
 [//]: # (~~~)
 * see the example scripts. You'll need to make the working loop, for continuous simulation in pybullet.
+For the probem statement navigate to PS1 and PS2 folder and there are python scripts that will launch the arenas and you have to code in them 
 ### Moment of Truth
 If you have done everything right, you should be able to see something like this after launching any of the provided scripts.
 <p align="center">
