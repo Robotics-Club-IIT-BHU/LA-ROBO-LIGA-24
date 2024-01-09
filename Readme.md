@@ -27,6 +27,7 @@ This repository holds the **official arena for the event** which will be used fo
       ~~~
 
 In case there are problems with the PyBullet installation, you can refer to this [guide](https://github.com/Robotics-Club-IIT-BHU/Robo-Summer-Camp-20/blob/master/Part1/Subpart%201/README.md).
+
 Refer to the [Winter Camp](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023)
 
 ## Getting started
