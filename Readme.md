@@ -65,7 +65,7 @@ For the problem statement click [here](LA-ROBOLIGA.pdf)
  <i>Husky's Eye</i>
 </p>  
 <p align="center">
- ##submission Link 
+##submission Link 
 The link for submission of [PS1](https://forms.gle/SZcLi2ZxMPSx9AJx5)
 The link for submission of PS2 will be provided soon 
 
