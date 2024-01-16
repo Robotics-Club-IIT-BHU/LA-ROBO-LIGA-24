@@ -63,7 +63,8 @@ For the problem statement click [here](LA-ROBOLIGA.pdf)
 <p align="center">
  <img  width="600" height="600" src="img/camera_feed.png"><br>
  <i>Husky's Eye</i>
-</p>  
+</p> 
+
 ## Submission Link
 
 The link for submission of [PS1](https://forms.gle/SZcLi2ZxMPSx9AJx5)
