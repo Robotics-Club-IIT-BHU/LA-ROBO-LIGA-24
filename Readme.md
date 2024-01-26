@@ -69,5 +69,4 @@ For the problem statement click [here](LA-ROBOLIGA.pdf)
 
 The link for submission of [PS1](https://forms.gle/SZcLi2ZxMPSx9AJx5)
 
-The link for submission of PS2 will be provided soon 
-
+The link for submission of [PS2](https://forms.gle/SCUxC1Zh8PEvzbXn9)
